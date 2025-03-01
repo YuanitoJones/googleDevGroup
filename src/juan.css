@@ -8,3 +8,9 @@
    background-color: hotpink;
    color: transparent;
 }
+
+.second_conflict {
+   max-width: 80vw;
+   display: flex;
+   justify-content: center;
+}
