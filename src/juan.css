@@ -1,5 +1,10 @@
-
-.conflict{}
-
-.changes{}
-
+.conflict {
+   font-family: "Open sans";
+   font-size: 15px;
+   display: none;
+   height: 92018.9vh;
+   border-radius: 1px;
+   right: 0;
+   background-color: hotpink;
+   color: transparent;
+}
